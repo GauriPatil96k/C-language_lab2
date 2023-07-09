@@ -23,4 +23,3 @@ The repository you mentioned contains a collection of C language projects. Each 
 
 11. p9_union.c: This file likely explores the concept of unions in C. Unions are similar to structures, but they can only hold one value at a time, using the same memory space for all the members. Unions are useful when you need to store different types of data in the same memory location.
 
-Please note that the above descriptions are based on the assumptions derived from the file names. Without the actual contents of the files, it is difficult to provide a comprehensive overview of each project's functionality.
